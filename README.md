@@ -11,13 +11,7 @@ Este aplicativo permite aos usuários visualizar, adicionar e gerenciar suas rec
 
 ### Configurando:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/vinialeixo/esplane-desafio.git
-   cd react-node-recipe-app
-   ```
-
-2. **Configurando o Backend**:
+1. **Configurando o Backend**:
 
    - Navegue até o diretório backend:
      ```bash
@@ -49,7 +43,7 @@ Este aplicativo permite aos usuários visualizar, adicionar e gerenciar suas rec
      npm start
      ```
 
-3. **Configurando o front-end**:
+2. **Configurando o front-end**:
 
    - Navegue até o diretor de front-end:
      ```bash
