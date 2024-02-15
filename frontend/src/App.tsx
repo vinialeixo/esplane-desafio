@@ -73,7 +73,7 @@ const App = ()=>{
     <div className="app-container">
       <div className="header">
         <img src="../public/home.jpg" alt="" />
-        <div className="title">My Recipe App</div>
+        <div className="title">Seja Bem Vindo</div>
       </div>
       <div className="tabs">
         <h1 className={selectedTab === "search"? "tab-active":""}
