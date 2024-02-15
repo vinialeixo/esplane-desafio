@@ -1,8 +1,7 @@
-﻿# esplane-desafio
+﻿# Esplane Desafio Técnico
 
 Este aplicativo permite aos usuários visualizar, adicionar e gerenciar suas receitas favoritas. Ele é construído usando React para o frontend e Node.js com Prisma para o backend
 
-## Getting Started 🚀
 
 ### Pré-requisitos:
 
@@ -14,7 +13,7 @@ Este aplicativo permite aos usuários visualizar, adicionar e gerenciar suas rec
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/chrisblakely01/react-node-recipe-app.git
+   git clone https://github.com/vinialeixo/esplane-desafio.git
    cd react-node-recipe-app
    ```
 
